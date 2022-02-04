@@ -1,24 +1,35 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Hello-Rails-Back-End
 
-Things you may want to cover:
+> The aim of this project is to create a Hello World project with the Rails back-end and the React front-end. You can check the front-end version at [Hello-React-Front-End](https://github.com/emmanuellekamwa/hello-react-front-end) 
 
-* Ruby version
+## Built With
 
-* System dependencies
+- Ruby on Rails
 
-* Configuration
+## Getting Started
+To have this project on your local machine just do the following steps
 
-* Database creation
+- Clone the repository using ̀https://github.com/emmanuellekamwa/hello-rails-back-end.git̀
+- Browse into the project's directory using ̀cd hello-rails-back-end̀
+- Run ̀npm install̀ to have all the the dependencies
+- Run ̀rails s̀ to start the server
 
-* Database initialization
+## Author
 
-* How to run the test suite
+👤 **Emmanuelle Kamwa**
 
-* Services (job queues, cache servers, search engines, etc.)
+- Github: [@emmanuellekamwa](https://github.com/emmanuellekamwa)
+- Twitter: [@AlixKamwa](https://twitter.com/AlixKamwa)
+- Linkedin: [@emmanuelle-kamwa-86145a1a4](https://www.linkedin.com/in/emmanuelle-kamwa-86145a1a4/)
 
-* Deployment instructions
+## 🤝 Contributing
 
-* ...
+Contributions, issues, and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+
