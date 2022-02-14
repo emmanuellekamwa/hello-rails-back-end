@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 ## Hello-Rails-Back-End
 
 > The aim of this project is to create a Hello World project with the Rails back-end and the React front-end. You can check the front-end version at [Hello-React-Front-End](https://github.com/emmanuellekamwa/hello-react-front-end) 
@@ -27,6 +25,10 @@ To have this project on your local machine just do the following steps
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
+
+## Acknowledgement
+
+- Microverse
 
 ## Show your support
 
